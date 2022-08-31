@@ -7,5 +7,4 @@ Here are some ideas to get you started: --!>
 
  - 🔭 I’m currently working on getting my degree to become a website designer and developer. <br>
  - 🌱 I’m currently learning active server page development. <br>
- - ⚡ Fun fact: I am very new to this. <br>
 
